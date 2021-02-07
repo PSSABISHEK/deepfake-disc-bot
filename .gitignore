@@ -1,0 +1,8 @@
+/node_modules
+/test
+disc_config.json
+disc_vid.mp4
+disc_image.png
+
+
+/first-order-model/vox-cpk.pth.tar

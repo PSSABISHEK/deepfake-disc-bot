@@ -1,0 +1,25 @@
+{
+  "name": "webscrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^12.2.0",
+    "node-server-screenshot": "^0.2.4",
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^3.0.4",
+    "request": "^2.88.2",
+    "string-similarity": "^4.0.1",
+    "twit": "^2.2.11",
+    "webshot": "^0.18.0",
+    "webshot-node": "^0.18.2"
+  }
+}
